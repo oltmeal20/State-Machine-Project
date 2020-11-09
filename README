@@ -1,0 +1,8 @@
+Luke Oltmanns
+State Machine Project
+CompSci 371
+
+Used the StateMachine example provided for us from class to create a daylight saveing time program
+that increments one hour eveytime the clock() method is called from the stateContext class.
+When the StandardTime class is called. the clock will stop and the clock will be set back one hour before resuming.
+When the SavingTime class is called. the clock will stop and the clock will be set ahead one hour before resuming.
